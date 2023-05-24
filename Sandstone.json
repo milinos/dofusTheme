@@ -1,14 +1,14 @@
 [
         { 
-                "author" : "Milinos", 
+                "author" : "Salakiss", 
                 "name" : "Saharach", 
-                "keyWords" : "saharach, interface", 
-                "version" : "1.5.0", 
+                "keyWords" : "beige, clair, gres, saharach, droupik", 
+                "version" : "2.0.2", 
                 "dofusVersion" : "2.64", 
-                "description" : "Theme saharach", 
+                "description" : "Thème basé sur Saharach et le grès.", 
                 "url" : "https://github.com/milinos/dofusTheme/raw/main/Sandstone.zip", 
                 "previewUrl" : "https://github.com/milinos/dofusTheme/raw/main/parangon.png", 
-                "creationDate" : "01/11/2021", 
-                "modificationDate" : "18/03/2023" 
+                "creationDate" : "10/10/2016", 
+                "modificationDate" : "20/08/2022"  
         }
 ]
